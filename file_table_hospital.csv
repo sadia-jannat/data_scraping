@@ -1,0 +1,19 @@
+,"
+										SL No.
+									","
+										Cabin
+									","
+										Rate(per day)
+									"
+0,1,VIP Cabin,"12,000/="
+1,2,Delux Cabin,"10,000/="
+2,3,General Cabin,"8,000/="
+3,4,Shared Cabin,"6,000/="
+4,5,Hi-Care Ward Bed,"5,000/="
+5,6,General Ward Bed,"3,500/="
+6,7,ICU Bed,"9,000/="
+7,8,HDU Bed,"8,000/="
+8,9,CTU Bed,"5,000/="
+9,10,NICU Bed,"4,000/="
+10,11,Admission Fee (Once),"2,000/="
+11,12,Service Charge,8%
